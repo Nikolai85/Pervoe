@@ -1,2 +1,4 @@
 print("Hello")
 print("Hollo World")
+print("dinamo")
+print("moscow")
